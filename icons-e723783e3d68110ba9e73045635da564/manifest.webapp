@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "legal-aid-clinic",
+  "description": null,
+  "icons": {
+    "60": "/icons-e723783e3d68110ba9e73045635da564/firefox_app_60x60.png",
+    "128": "/icons-e723783e3d68110ba9e73045635da564/firefox_app_128x128.png",
+    "512": "/icons-e723783e3d68110ba9e73045635da564/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
